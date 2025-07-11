@@ -1,0 +1,1 @@
+Implement a function to multiply two matrices of the same data type.
