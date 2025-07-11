@@ -1,0 +1,5 @@
+Write a program to read a list of complex numbers from a file and output the 5 numbers with the largest magnitude. The organization of the file containing complex numbers (In.txt) is as follows:
+
+- The first line is the number of complex numbers
+
+- From the second line, each line contains the real part and imaginary part of a complex number.
