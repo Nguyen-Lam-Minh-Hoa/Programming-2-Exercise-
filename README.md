@@ -36,7 +36,7 @@ If you find any mistakes or want to add new exercises, please submit a pull requ
 
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the Mozilla Public License 2.0
 
 ## Contact
 
